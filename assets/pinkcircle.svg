@@ -1,0 +1,25 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="110" cy="110" r="110" fill="#FF7EB6"/>
+<rect x="99" y="75" width="70" height="70" rx="25" fill="#FF7EB6"/>
+<circle cx="121.5" cy="103.125" r="4.375" fill="#1F2937"/>
+<circle cx="146.5" cy="103.125" r="4.375" fill="#1F2937"/>
+<circle cx="120.25" cy="101.25" r="1.25" fill="white"/>
+<circle cx="145.25" cy="101.25" r="1.25" fill="white"/>
+<ellipse cx="134" cy="123.125" rx="10" ry="6.875" fill="#1F2937"/>
+<g clip-path="url(#clip0_6004_758)">
+<rect x="105.525" y="81.25" width="1.95" height="7.5" rx="0.975" fill="white" fill-opacity="0.9"/>
+<rect x="102.75" y="84.025" width="7.5" height="1.95" rx="0.975" fill="white" fill-opacity="0.9"/>
+</g>
+<g clip-path="url(#clip1_6004_758)">
+<rect x="158.188" y="85.625" width="1.625" height="6.25" rx="0.8125" fill="white" fill-opacity="0.8"/>
+<rect x="155.875" y="87.9375" width="6.25" height="1.625" rx="0.8125" fill="white" fill-opacity="0.8"/>
+</g>
+<defs>
+<clipPath id="clip0_6004_758">
+<rect width="7.5" height="7.5" fill="white" transform="translate(102.75 81.25)"/>
+</clipPath>
+<clipPath id="clip1_6004_758">
+<rect width="6.25" height="6.25" fill="white" transform="translate(155.875 85.625)"/>
+</clipPath>
+</defs>
+</svg>
